@@ -10,6 +10,14 @@ namespace Test_1
     {
         static void Main(string[] args)
         {
+            var i = 5;
+            var a = 10.5;
+            var b = i + a;
+            Console.WriteLine(b);
+            Console.ReadLine();
+            
         }
+        
+
     }
 }
